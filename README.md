@@ -6,7 +6,7 @@ O objetivo do projeto é implementar um CRUD(Create,Read,Update e Delete) em lin
 
 ## Descrição do projeto
 
-O Crud Java - MariaDB é um projeto muito simples voltado para iniciantes com a linguagem de programação Java. O projeto conta com apenas três classes: ConnectionFactory usada para conexão com o banco de dados; CustomerModel como classe model do projeto; e a CustomerController com métodos para manipulação do banco de dados. O projeto não possui interface gráfica.
+O Crud Java - MariaDB é um projeto muito simples voltado para iniciantes com a linguagem de programação Java. O projeto conta com apenas quatro classes: ConnectionFactory usada para conexão com o banco de dados; CustomerModel como classe model do projeto; e a CustomerController com métodos para manipulação do banco de dados e a classe pricipal. O projeto não possui interface gráfica.
 
 ## Tecnologias utilizadas
 * Linguagem de programação Java 8
