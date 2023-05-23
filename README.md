@@ -17,7 +17,7 @@ O Crud Java - MariaDB é um projeto muito simples voltado para iniciantes com a 
 
 ## Observações
 
-* O projeto Crud Java-MariaDB é puramente didático, ou seja, é destinado para iniciantes na linguagem de programação Java entenderem como a conexão com o banco de dados e consultas Sql funcionam; por exemplo, a classe ConnectionFactory implementada para este projeto é muito diferente da mesma classe em um hambiente de produção.  
+* Para fazer o projeto funcionar é necessário inicialir o servidor Apache e o MariaDB da stack Xampp.  
 * Caso o programador esteja usando um gerenciador de dependências diferente do Maven, este é o endereço do DRIVER de conexão Sql (https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.32).
 * A dependência JDBC(para conexão com o banco de dados) fica no arquivo pom.xml
-* Existe uma pasta no projeto chamada db que não faz parte da estrutura do projeto mas contém o esquema sql.
+* Existe uma pasta no projeto chamada (db) que não faz parte da estrutura do projeto mas contém o esquema sql.
