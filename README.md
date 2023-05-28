@@ -2,10 +2,10 @@
 
 ## Descrição do projeto
 
-O objetivo do projeto é implementar um CRUD(Create,Read,Update e Delete) em linguagem de programação Java e MySql.
+O projeto java-mariadb é um CRUD (create, read, update, delete) simples em linguagem de programação Java que interage com o banco de dados MariaDB.
 
 ## Tecnologias utilizadas
-* Linguagem de programação Java 8 
+* Linguagem de programação Java
 * Gerenciador de dependências Maven
 * Stack Xampp (Apache e MariaDB)
 * VS Code
