@@ -2,7 +2,7 @@
 
 ## Descrição do projeto
 
-O projeto java-mariadb é um CRUD (create, read, update, delete) simples em linguagem de programação Java que interage com o banco de dados MariaDB.
+O projeto java-mariadb é um CRUD (create, read, update, delete) simples em linguagem de programação Java e que interage com o banco de dados MariaDB.
 
 ## Tecnologias utilizadas
 * Linguagem de programação Java
